@@ -6,3 +6,4 @@ Instrução para atividade de PO WEB: criar na sessão de cadastro usando HTML, 
 
 2. Já para organizar o layout para que ficassem os formulários de Cadastro e Login lado a lado, fiz uma pequena alteração no código html: adicionei uma div chamada flex-container, como uma div "pai" dos formulários de cadastro e login, assim quando configurasse o código no css poderia organizar o layout das seções uma ao lado da outra.
 
+3. Tentei indorporar a validação de email e senha, como no form de cadastro, mas não consegui alterar os pontos chaves para que desse certo.
